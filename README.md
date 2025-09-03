@@ -9,9 +9,9 @@ This is a Python package to generate a password easily in one line. You can use 
 
 ## Usage 
 ```python3 
-    from pasgen.core import pasgen
-    test = pasgen()
-    print(test)
+from pasgen.core import pasgen
+test = pasgen()
+print(test)
 ```
 ## Parametres
 

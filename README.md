@@ -3,8 +3,8 @@
 This is a Python package to generate a password easily in one line. You can use your projects for random fill during project development. 
 
 ## Installation
-```python3  
-    pip install pasgen
+```bash  
+pip install pasgen
 ```
 
 ## Usage 

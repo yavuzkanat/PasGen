@@ -17,7 +17,7 @@ This is a Python package to generate a password easily in one line. You can use 
 
 ### lenght (default = 7)
 ```python3
-    pasgen(length=10)
+pasgen(length=10)
 ```
 This parameter is the password length that you created.
 
